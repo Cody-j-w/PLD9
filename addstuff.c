@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stlib.h>
+#include <stdlib.h>
 /**
  * addstuff - add a string and a number together
  * @string: the string to be printed 
