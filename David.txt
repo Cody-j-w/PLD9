@@ -1,3 +1,7 @@
 This is such a fun and friendly message :D
 
+<<<<<<< HEAD
 One of the beards.
+=======
+Adding a new line to test pushing the main branch!
+>>>>>>> main
