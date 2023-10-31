@@ -4,11 +4,18 @@ We're all business 😎
 
 ## Members
 
-Ben
-Cody
-Courtney
-David
+Ben - pull request approved
+
+Cody - pull request approved
+
+Courtney - pull request approved
+
+David - pull request approved
+
 Jesse
-Kyle
-Luke
-Ryan
+
+Kyle - pull request approved
+
+Luke - pull request approved
+
+Ryan - pull request approved
