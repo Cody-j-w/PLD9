@@ -6,13 +6,13 @@ We're all business 😎
 
 Ben - pull request approved
 
-Cody - pull request approved
+Cody - pull request approved; addstuff file added and approved
 
 Courtney - pull request approved
 
 David - pull request approved
 
-Jesse
+Jesse - pull request approved
 
 Kyle - pull request approved
 

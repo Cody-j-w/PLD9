@@ -1,12 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 /**
- * addstuff - add a string and a number together
- * @string: the string to be printed 
- * @number: the number to be printed 
+ *
  */
-void addstuff(const char* string, int number)
+void add_stuff(*char s, int n)
 {
-	printf("%s %d\n", string, number);
-}
+	if (char != NULL)
+	{
+		printf("%s%d", s, n);
+	}
+
 
