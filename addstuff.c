@@ -10,5 +10,6 @@ void add_stuff(*char s, int n)
 	{
 		printf("%s%d", s, n);
 	}
+}
 
 
