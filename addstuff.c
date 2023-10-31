@@ -6,6 +6,7 @@ void add_stuff (char *s, int n)
 	{
 		printf("%s%d\n", s, n);
 	}
+
 }
 int main(void)
 {
@@ -14,3 +15,4 @@ int main(void)
 	add_stuff(text, n);
 	return 0;
 }
+
