@@ -12,7 +12,7 @@ Courtney - pull request approved
 
 David - pull request approved
 
-Jesse
+Jesse - pull request approved
 
 Kyle - pull request approved
 
